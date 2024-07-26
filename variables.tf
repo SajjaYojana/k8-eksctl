@@ -6,5 +6,5 @@ variable "sg_id" {
 
 variable "public_subnet_id" {
     type = string
-    default = "subnet-0ea509ad4cba242d7"
+    default = "subnet-019c65cbf0e043915"
 }
